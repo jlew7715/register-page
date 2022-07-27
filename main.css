@@ -88,3 +88,7 @@ footer img {
 footer img:hover {
     cursor: pointer;
 }
+
+h1 {
+    text-align: center;
+}
